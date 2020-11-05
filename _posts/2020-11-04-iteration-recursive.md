@@ -44,6 +44,7 @@ tags:
  	return 0;
  }
 ```
+![숫자피라미드](https://user-images.githubusercontent.com/68745073/98127888-8fe8fb80-1efa-11eb-9b87-e74d1d7cf558.png)
 
 <br/><br/>
 
@@ -81,6 +82,7 @@ int main(void)
 	return 0;
 }
 ```
+![문자열반복](https://user-images.githubusercontent.com/68745073/98127936-9ecfae00-1efa-11eb-8a5e-c76795e18f45.png)
 
 <br/><br/>
 
@@ -111,6 +113,9 @@ int main(void)
 	return 0;
 }
 ```
+![조합](https://user-images.githubusercontent.com/68745073/98127938-a000db00-1efa-11eb-8d71-341873db18ab.png)
+
+<br/><br/>
 
 ### 참고
 [동빈나 - C언어 기초 프로그래밍 강좌](https://www.youtube.com/watch?v=dh4hdtZ00EU&list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT&index=1&t=2s)
