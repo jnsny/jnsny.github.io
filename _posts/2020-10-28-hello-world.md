@@ -8,6 +8,8 @@ tags:
   - Blog
 ---
 
+<br/><br/>
+
 # 📌Dev-C++ 다운로드
 ---------------------------------------
 
@@ -48,6 +50,8 @@ int main(void)	// main 함수는 가장 첫번째로 실행됨
 
 - 출력화면  
 ![hello](https://user-images.githubusercontent.com/68745073/97411437-9fd56e00-1943-11eb-9852-bb7735cd4a20.png)  
+
+<br/><br/>
 
 ### 참고
 [동빈나 - C언어 기초 프로그래밍 강좌](https://www.youtube.com/watch?v=dh4hdtZ00EU&list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT&index=1&t=2s)
